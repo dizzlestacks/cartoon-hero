@@ -1,0 +1,31 @@
+body {
+	background-color: dimgrey;
+}
+<style type="text/css">
+h1 {
+font-size: 50px;
+color: saddlebrown;
+}
+
+h2 {
+color: darkred;
+font-size: 100px;
+
+}
+h2 {
+color: purple;
+}
+
+.big {
+font-size: 200px;
+}
+
+.uppercase {
+text-transform: uppercase;
+}
+
+h1 span{
+color: beige;
+}
+
+</style>
